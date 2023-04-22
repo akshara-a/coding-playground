@@ -13,5 +13,5 @@ Day-4 <br/>
 Reverse an integer (32-bit) <br/>
 <br/>
 Day-5 <br/>
-pow(x,n) <br/>
+pow(x,n), Search insert position <br/>
 <br/>
