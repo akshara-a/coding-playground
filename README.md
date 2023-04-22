@@ -10,4 +10,8 @@ Day-3 <br/>
 Reverse a number <br/>
 <br/>
 Day-4 <br/>
-Reverse an integer (32-bit)
+Reverse an integer (32-bit) <br/>
+<br/>
+Day-5 <br/>
+pow(x,n) <br/>
+<br/>
