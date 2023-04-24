@@ -15,3 +15,6 @@ Reverse an integer (32-bit) <br/>
 Day-5 <br/>
 pow(x,n), Search insert position <br/>
 <br/>
+Day-6 <br/>
+First and Last appearance of an element <br/>
+<br/>
