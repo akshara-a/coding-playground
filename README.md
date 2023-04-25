@@ -19,5 +19,5 @@ Day-6 <br/>
 First and Last appearance of an element, Find First and Last Position of Element in Sorted Array <br/>
 <br/>
 Day-7 <br/>
-Characters at multiples of x - reverse <br/>
+Characters at multiples of x - reverse, All even digits <br/>
 <br/>
