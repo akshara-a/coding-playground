@@ -21,3 +21,6 @@ First and Last appearance of an element, Find First and Last Position of Element
 Day-7 <br/>
 Characters at multiples of x - reverse, All even digits <br/>
 <br/>
+Day-8 <br/>
+Min-max sum, Subarray division, Permuting two arrays, Counting sort 1 <br/>
+<br/>
