@@ -24,3 +24,6 @@ Characters at multiples of x - reverse, All even digits <br/>
 Day-8 <br/>
 Min-max sum, Subarray division, Permuting two arrays, Counting sort 1 <br/>
 <br/>
+Day-9 <br/>
+Caesar cipher, Bill division, Breaking the records, Divisible sum pairs, Staircase, Birthday cake candles, Sparse arrays <br/>
+<br/>
