@@ -30,3 +30,5 @@ Caesar cipher, Bill division, Breaking the records, Divisible sum pairs, Stairca
 Day-10 <br/>
 Reverse an array, Reverse a string, Max-min element in an array, Sort an array of 0's 1's 2's, kth smallest and largest element in an array, Move all negative numbers to one end, Union and intersection of two arrays, Find the median, Median of two sorted arrays <br/>
 <br/>
+Day-11 <br/>
+Even rows and odd columns <br/>
