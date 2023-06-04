@@ -1,3 +1,27 @@
+#Skillrack
+
+# Example)
+# Input 
+# 3 4 (rows & columns)
+# 96 53 51 15
+# 23 11 72 68
+# 77 53 74 47
+
+# Output
+# 77 53 74 15
+# 68 72 11 23
+# 96 53 51 47
+
+# Explanation
+# After reversing the elements in even rows, the matrix becomes
+# 96 53 51 15
+# 68 72 11 23
+# 77 53 74 47
+# After reversing the elements in odd columns, the matrix becomes
+# 77 53 74 15
+# 68 72 11 23
+# 96 53 51 47
+
 rows, columns = [int(x) for x in input().split()]
 
 matrix = []
