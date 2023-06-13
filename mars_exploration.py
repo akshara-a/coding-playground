@@ -2,6 +2,7 @@
 
 # https://www.hackerrank.com/challenges/mars-exploration/problem
 
+# Method - 1
 def marsExploration(s):
     # Write your code here
     lst = []
@@ -29,3 +30,17 @@ def marsExploration(s):
         return count
     else:
         return 0
+
+# Method - 2
+def marsExploration(s):
+    # Write your code here
+    temp = len(s)//3
+    check_pair = 'SOS' * temp
+    count = 0
+    # print(check_pair)
+    for i in range(len(s)):
+        if s[i]==check_pair[i]:
+            pass
+        else:
+            count += 1
+    return count
