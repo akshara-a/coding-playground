@@ -4,8 +4,7 @@ lst = list(map(int,input().split()))
 sub_list = []
 
 for i in range(len(lst)):
-    sub_list.append([lst[i]])
-    for j in range(i+1,len(lst)):
+    for j in range(i,len(lst)):
         temp = lst[i:j+1]
         sub_list.append(temp)
     
