@@ -35,3 +35,6 @@ Even rows and odd columns <br/>
 <br/>
 Day-12 <br/>
 Cat and a house, Icecream parlor, Inorder traversal, Mars exploration, Shoe price - total <br/>
+<br/>
+Day - 13 <br/>
+Odd even positioning of characters, Reverse a string, ALl subarrays, 
