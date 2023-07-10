@@ -36,5 +36,9 @@ Even rows and odd columns <br/>
 Day-12 <br/>
 Cat and a house, Icecream parlor, Inorder traversal, Mars exploration, Shoe price - total <br/>
 <br/>
-Day - 13 <br/>
-Odd even positioning of characters, Reverse a string, All subarrays, 
+Day-13 <br/>
+Odd even positioning of characters, Reverse a string, All subarrays </br>
+Day-14 <br/>
+Sum of all digits in an integer array <br/>
+Day-15 </br>
+Difference of sum </br>
