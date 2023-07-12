@@ -37,8 +37,13 @@ Day-12 <br/>
 Cat and a house, Icecream parlor, Inorder traversal, Mars exploration, Shoe price - total <br/>
 <br/>
 Day-13 <br/>
-Odd even positioning of characters, Reverse a string, All subarrays </br>
+Odd-even positioning of characters, Reverse a string, All subarrays <b/r>
+<br/>
 Day-14 <br/>
-Sum of all digits in an integer array <br/>
-Day-15 </br>
-Difference of sum </br>
+Sum of all digits in an integer array <br/> 
+<br/>
+Day-15 <br/>
+Difference of sum <br/>
+<br/>
+Day-16 <br/>
+Matrix in Python - Introduction 
