@@ -46,4 +46,5 @@ Day-15 <br/>
 Difference of sum <br/>
 <br/>
 Day-16 <br/>
-Matrix in Python - Introduction 
+Matrix in Python - Introduction, Binary String Operations<br/>
+<br/>
