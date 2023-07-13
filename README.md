@@ -48,3 +48,4 @@ Difference of sum <br/>
 Day-16 <br/>
 Matrix in Python - Introduction, Binary String Operations<br/>
 <br/>
+Smallest Exponent, Flipping Bits
