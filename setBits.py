@@ -1,8 +1,8 @@
 # Given a number n, count the number of set bits.
 
 # Input Format
-# The first line contains a single integer .  test cases follow.
-# Each test case contains a single integer, , in one line
+# The first line contains a single integer t. t test cases follow.
+# Each test case contains a single integer, n, in one line
 
 # Constraints
 # 2 <= t <= 10^4
