@@ -52,5 +52,5 @@ Day-17 <br/>
 Smallest Exponent, Flipping Bits <br/>
 <br/>
 Day-18 <br/>
-Unset Bits, Set Bits, Funny strings, Maximizing XOR <br/>
+Unset Bits, Set Bits, Funny strings, Maximizing XOR, itertools product() <br/>
 <br/>
