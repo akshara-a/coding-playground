@@ -24,10 +24,25 @@
 # 0
 # 7
 
+# Method-1
 def unsetBitsCount(n):
     convert = str(bin(n))
     temp = convert[2:]
     return temp.count('0')
+
+t = int(input())
+for i in range(t):
+    n = int(input())
+    print(unsetBitsCount(n))
+
+# Method-2
+from collections import Counter 
+
+def unsetBitsCount(n):
+    convert = str(bin(n))
+    temp = convert[2:]
+    c = Counter(temp)
+    return c['0']
 
 t = int(input())
 for i in range(t):
