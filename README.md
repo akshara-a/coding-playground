@@ -54,3 +54,6 @@ Smallest Exponent, Flipping Bits <br/>
 Day-18 <br/>
 Unset Bits, Set Bits, Funny strings, Maximizing XOR, itertools product(), itertools permutation(), Final sum <br/>
 <br/>
+Day-19 <br/>
+Rat Count House <br/>
+<br/>
