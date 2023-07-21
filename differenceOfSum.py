@@ -34,7 +34,7 @@ def differenceofSum(n, m):
         else:
             nonDivSum += i 
 
-    return (nonDivSum-divSum)
+    return (abs(nonDivSum-divSum))
 
 n, m = map(int,input().split())
 print(differenceofSum(n,m))
