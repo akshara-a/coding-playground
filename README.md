@@ -58,5 +58,5 @@ Day-19 <br/>
 Rat Count House <br/>
 <br/>
 Day-20 <br/> 
-Large Small Sum, Product Small Pair, Sum of all elements in an array <br/> 
+Large Small Sum, Product Small Pair, Sum of all elements in an array, Average of all elements in an array <br/> 
 <br/>
