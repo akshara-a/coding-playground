@@ -60,3 +60,6 @@ Rat Count House <br/>
 Day-20 <br/> 
 Large Small Sum, Product Small Pair, Sum of all elements in an array, Average of all elements in an array, Max and Min Elements an Array <br/> 
 <br/>
+Day-21 <br/> 
+Merge Sort Array, Valid Palindrome <br/> 
+<br/> 
