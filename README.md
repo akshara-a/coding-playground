@@ -64,5 +64,5 @@ Day-21 <br/>
 Merge Sort Array, Valid Palindrome, Valid Anagram <br/> 
 <br/> 
 Day-22 <br/> 
-Move Zeroes, Sqrt(x), Plus One <br/> 
+Move Zeroes, Sqrt(x), Plus One, Length of Last Word <br/> 
 <br/> 
