@@ -66,3 +66,6 @@ Merge Sort Array, Valid Palindrome, Valid Anagram <br/>
 Day-22 <br/> 
 Move Zeroes, Sqrt(x), Plus One, Length of Last Word <br/> 
 <br/> 
+Day-23 <br/> 
+Handshake, Maximum Draws, Minimum Height Triangle <br/> 
+<br/> 
