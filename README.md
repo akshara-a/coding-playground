@@ -73,6 +73,5 @@ Day-24 <br/>
 Move Hash to Front, Make it Palindrome <br/> 
 <br/> 
 Day-25 <br/> 
-Capitalize/Decapitalize, Individual Character Count, Remove Element Inplace, Find the Index of the First Occurrence in a String
- <br/>
+Capitalize/Decapitalize, Individual Character Count, Remove Element Inplace, Find the Index of the First Occurrence in a String <br/>
 <br/>
