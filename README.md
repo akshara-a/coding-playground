@@ -73,5 +73,5 @@ Day-24 <br/>
 Move Hash to Front, Make it Palindrome <br/> 
 <br/> 
 Day-25 <br/> 
-Capitalize/Decapitalize <br/>
+Capitalize/Decapitalize, Individual Character Count <br/>
 <br/>
