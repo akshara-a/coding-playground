@@ -72,3 +72,6 @@ Handshake, Maximum Draws, Minimum Height Triangle <br/>
 Day-24 <br/> 
 Move Hash to Front, Make it Palindrome <br/> 
 <br/> 
+Day-25 <br/> 
+Capitalize/Decapitalize <br/>
+<br/>
