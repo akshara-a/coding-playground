@@ -69,3 +69,6 @@ Move Zeroes, Sqrt(x), Plus One, Length of Last Word <br/>
 Day-23 <br/> 
 Handshake, Maximum Draws, Minimum Height Triangle <br/> 
 <br/> 
+Day-24 <br/> 
+Move Hash to Front, Make it Palindrome <br/> 
+<br/> 
