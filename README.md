@@ -75,3 +75,6 @@ Move Hash to Front, Make it Palindrome <br/>
 Day-25 <br/> 
 Capitalize/Decapitalize, Individual Character Count, Remove Element Inplace, Find the Index of the First Occurrence in a String <br/>
 <br/>
+Day - 26 <br/> 
+Binary Translation <br/> 
+<br/>
