@@ -78,3 +78,6 @@ Capitalize/Decapitalize, Individual Character Count, Remove Element Inplace, Fin
 Day - 26 <br/> 
 Binary Translation <br/> 
 <br/>
+Day - 27 <br/> 
+Prime number <br/> 
+<br/>
