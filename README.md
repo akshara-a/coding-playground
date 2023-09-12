@@ -82,5 +82,5 @@ Day - 27 <br/>
 Prime number <br/> 
 <br/>
 Day - 28 <br/> 
-Number of 1 bits, Counting bits <br/>
+Number of 1 bits, Counting bits, Power Of Two <br/>
 <br/>
