@@ -81,3 +81,6 @@ Binary Translation <br/>
 Day - 27 <br/> 
 Prime number <br/> 
 <br/>
+Day - 28 <br/> 
+Number of 1 bits, <br/>
+<br/>
