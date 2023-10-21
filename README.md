@@ -87,3 +87,6 @@ Number of 1 bits, Counting bits, Power Of Two <br/>
 Day - 29 <br/> 
 Median of two sorted arrays, Merge two arrays, Median of two arrays <br/> 
 <br/>
+Day - 30 <br/> 
+Generating ordinal values <br/>
+<br/>
