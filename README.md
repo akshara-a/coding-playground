@@ -90,3 +90,6 @@ Median of two sorted arrays, Merge two arrays, Median of two arrays <br/>
 Day - 30 <br/> 
 Generating ordinal values <br/>
 <br/>
+Day - 31 <br/> 
+Find duplicates in an array <br/>
+<br/>
