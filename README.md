@@ -91,5 +91,5 @@ Day - 30 <br/>
 Generating ordinal values <br/>
 <br/>
 Day - 31 <br/> 
-Find duplicates in an array <br/>
+Find duplicates in an array, Number of Laser Beams in a Bank, Convert an Array Into a 2D Array With Conditions <br/>
 <br/>
