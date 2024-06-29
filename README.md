@@ -93,3 +93,6 @@ Generating ordinal values <br/>
 Day - 31 <br/> 
 Find duplicates in an array, Number of Laser Beams in a Bank, Convert an Array Into a 2D Array With Conditions <br/>
 <br/>
+Day - 32 <br/> 
+Intersection of Two Arrays, Two Sum II - Input Array Is Sorted, Reverse Vowels of a String <br/> 
+<br/> 
