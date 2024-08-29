@@ -8,7 +8,7 @@ def generate_uuids(count):
     return uuids
 
 
-unique_uuids = generate_uuids(995)
+unique_uuids = generate_uuids(1000)
 # Output file path
 output = 'guids.csv'
 with open(output, 'w', newline='') as file:
