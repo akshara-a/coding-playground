@@ -1,4 +1,4 @@
-# 100-days-of-code
+# Coding Playground
 
 Day-1 <br/>
 Automorphic number <br/>
